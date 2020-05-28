@@ -9,7 +9,7 @@ We ran the Spark_Kmeans_geo.py on the AWS EMR and the outcomes were stored in th
 </p>
 To help understand the clustering results, the table below describes the locations of the centroid of each cluster.
 <p align="center">
-  <img width="400" height="500" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/cluster%20centroids%20table.png">
+  <img width="200" height="300" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/cluster%20centroids%20table.png">
 </p>
 
 ## Conclusions  
