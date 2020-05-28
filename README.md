@@ -7,6 +7,11 @@ We ran the Spark_Kmeans_geo.py on the AWS EMR and the outcomes were stored in th
 <p align="center">
   <img width="600" height="500" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/7%20clusters.png">
 </p>
+To help understand the clustering results, the table below describes the locations of the centroid of each cluster.
+<p align="center">
+  <img width="600" height="500" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/cluster%20centroids%20table.png">
+</p>
+
 ## Conclusions  
 The clustering gave information about areas in NYC with high cab demands. The position of centroids were the most popular spots among that cluster area. These information could be beneﬁcial to the cab company in their management and marketing.
 
