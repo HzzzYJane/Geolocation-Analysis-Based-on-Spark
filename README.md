@@ -9,7 +9,7 @@ We ran the Spark_Kmeans_geo.py on the preprocessed data, with each datapoint in 
 </p>
 To help understand the clustering results, the table below describes the locations of the centroid of each cluster. And these locations of centroids corresponding to 7 clusters are transportation hubs, Tourist attractions and popular detinations, i.e.,  the busiest points in New York.
 <p align="center">
-  <img width="400" height="200" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/image/7%20cluster%20centroids.png">
+  <img width="450" height="200" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/image/7%20cluster%20centroids.png">
 </p>  
 
 ## Conclusion  
