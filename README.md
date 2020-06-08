@@ -7,9 +7,10 @@ We ran the Spark_Kmeans_geo.py on preprocessed dataset the AWS EMR and stores th
 <p align="center">
   <img width="600" height="500" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/image/7%20clusters.png">
 </p>
-To help understand the clustering results, the table below describes the locations of the centroid of each cluster.
-![](./image.7 cluster centroids.png)
-
+To help understand the clustering results, the table below describes the locations of the centroid of each cluster. And these locations of centroids corresponding to 7 clusters are transportation hubs, Tourist attractions and popular detinations, i.e.,  the busiest points in New York.
+<p align="center">
+  <img width="600" height="500" src="https://github.com/HzzzYJane/Geolocation-Analysis-Based-on-Spark/blob/master/image/7%20cluster%20centroids.png">
+</p>
 ## Conclusions  
 The clustering gave information about areas in NYC with high cab demands. The position of centroids were the most popular spots among that cluster area. These information could be beneﬁcial to the cab company in their management and marketing.
 
